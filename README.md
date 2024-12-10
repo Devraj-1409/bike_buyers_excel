@@ -29,5 +29,6 @@ This project involves cleaning and analyzing a dataset of bike buyers using Micr
 - **`Excel Project Dataset.xlsx`**: The final dashboard file with Pivot Tables and visualizations.
 
 ## Screenshot of the Final Dashboard
-![dashboard](Excel Dashboard.png)
+<img src="Excel_Dashboard.png" alt="dashboard" width="700px" height="400px">
+
 
